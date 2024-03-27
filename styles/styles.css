@@ -1,4 +1,16 @@
-#brand-img{
+/* #brand-img{
     width: 100px;
     height: 60px;
-}
+} */
+
+/* Create a file `styles.css`.
+Link it to our HTML project.
+Change the display of the navbar to make it inline.
+Change the font to roboto.
+Add classes attributes to HTML / HTML documents .
+Be creative ! */
+
+nav {
+    display: inline;
+    font-family: 'Roboto', sans-serif;
+};
